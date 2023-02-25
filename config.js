@@ -102,7 +102,7 @@ global.APIKeys = { // APIKey Here
 global.wm = '                「 FAHIL BOTZ 汉  」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fox BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'Fox BOTZ'
-global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
+global.botdate = `🔮 Fox Bot𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = 'By kavi'
 global.author = global.wm
@@ -329,7 +329,7 @@ global.flaaa = [
 global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
+global.dtc = ' ᴏᴡɴᴇʀ'
 global.phn = '+94715168503'
 
 /*=========== TYPE DOCUMENT ===========*/
@@ -366,13 +366,13 @@ global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
 global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
-global.htjava = '⫹⫺'    //hiasan Doang :v
+global.htjava = '🛡'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
 global.stickauth = `☂︎\nF\na\nh\ni\nl\n\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = 'By Fahil'
+global.packname = 'By Kavi'
 global.packname2 = 'Ig : _pahilz26'
 
 global.multiplier = 38 // The higher, The harder levelup
