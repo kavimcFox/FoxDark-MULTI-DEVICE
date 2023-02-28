@@ -99,7 +99,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 FAHIL BOTZ 汉  」' //Main Watermark
+global.wm = '                「 Fox BOTZ 汉  」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Fox BOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'Fox BOTZ'
 global.botdate = `🔮 Fox Bot𝗛𝗮𝗿𝗶: ${week} ${date}`
